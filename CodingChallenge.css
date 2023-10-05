@@ -1,0 +1,93 @@
+.sfondo{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.sfondo-opaco{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 1000px;
+    height: 700px;
+    margin: 0px 300px;
+}
+
+.Logo-titolo{
+    padding: 90px 0px 0px 300px;
+}
+
+.logo{
+    height: 100px;
+    width: 200px;
+    padding-left: 80px;
+}
+
+#Titolo{
+    color: rgb(7, 242, 7);
+    margin: 0px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.input-barra{
+    margin: 0px 40px 0px 40px;
+}
+
+.input-container{
+    background-color: rgb(7, 242, 7);
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    border: none;
+    color: white;
+    margin: 5px;
+}
+
+.main{
+    margin: 0px 0px 0px 40px;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    margin: 0%;
+    padding-top: 10px;
+}
+
+p{
+    margin: 0%;
+}
+
+.Monopattino{
+    width: 100%;
+    padding: 5px;
+}
+
+.barra{
+    height: 20px;
+    margin-top: 10px;
+}
+
+.orange{
+    width: 35%;
+    background-color: orange;
+    color: orange;
+    font-size: 20px;
+}
+
+.green{
+    width: 50%;
+    background-color: rgb(7, 242, 7);
+    color: rgb(7, 242, 7);
+    font-size: 20px;
+}
+
+.red{
+    width: 15%;
+    background-color: red;
+    color: red;
+    font-size: 20px;
+}
